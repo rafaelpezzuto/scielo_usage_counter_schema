@@ -8,7 +8,7 @@ install_requirements=[
 
 setup(
     name='scielo-usage-counter-schema',
-    version='0.5',
+    version='0.5.1',
     description='The SciELO Usage Counter Schema',
     author='SciELO',
     author_email='scielo-dev@googlegroups.com',
